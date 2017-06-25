@@ -1,0 +1,27 @@
+
+
+-----------
+|DEMO CASE|
+-----------
+for constrained & unconstrained!
+
+excitation: u(t)=5e-2*sin(t), A=0.05[N/m] ~ 1[V]
+
+-> no resonance case f=1/(2*pi)=0.16[Hz] (very small)
+
+
+-------------
+|EXCITATIONS|
+-------------
+- sine already shown
+- constant torque
+- accilaration and sudden break
+- initial condition excite
+- resonance excitation! u(t)=5e-2*sin(omeg(i)*t)
+
+---------------------
+|PARAMETER VARIATION|
+---------------------
+- length L
+- Young modulus E ("measure of stiffness")
+- intertia (J,m)
